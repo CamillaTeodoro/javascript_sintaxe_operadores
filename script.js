@@ -1,5 +1,5 @@
-let n1 = Number(prompt('Insira o primeiro valor:'));
-let n2 = Number(prompt('Insira o segundo valor:'));
+const n1 = Number(prompt('Insira o primeiro valor:'));
+const n2 = Number(prompt('Insira o segundo valor:'));
 let resultado;
 
 
